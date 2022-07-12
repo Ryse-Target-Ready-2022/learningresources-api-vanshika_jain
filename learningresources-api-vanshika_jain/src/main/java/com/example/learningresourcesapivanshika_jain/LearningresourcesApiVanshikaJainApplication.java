@@ -8,6 +8,7 @@ public class LearningresourcesApiVanshikaJainApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LearningresourcesApiVanshikaJainApplication.class, args);
+		System.out.println("Hello World!");
 	}
 
 }
