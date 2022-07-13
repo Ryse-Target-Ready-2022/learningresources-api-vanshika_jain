@@ -1,2 +1,8 @@
-package com.example.learningresourcesapivanshika_jain.entity;public enum LearningResourceStatus {
+package com.example.learningresourcesapivanshika_jain.entity;
+
+public enum LearningResourceStatus {
+    PLANNING,
+    PUBLISHED,
+    LIVE,
+    RETIRED
 }
