@@ -51,6 +51,13 @@ public class LearningResourceService {
         return learningResources;
     }
 
+    public List<LearningResource> sortLearningResources()
+    {
+        List<LearningResource> learningResources=getLearningResources();
+        learningResources.sort(new LearningResourceSorter());
+        return learningResources;
+    }
+
     public void deleteLearningResource(int id)
     {
 
