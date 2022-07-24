@@ -2,8 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="learningresources-api-vanshika_jain.learningresources-api-vanshika_jain.main" target="11" />
-      <module name="learningresources-api-vanshika_jain.learningresources-api-vanshika_jain.test" target="11" />
+      <module name="learningresources-api-vanshika_jain.learningresources-api-vanshika_jain.main~1" target="11" />
+      <module name="learningresources-api-vanshika_jain.learningresources-api-vanshika_jain.test~1" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
